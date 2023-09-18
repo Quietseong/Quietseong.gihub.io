@@ -1,3 +1,3 @@
 # SNKR's history
 ## 1.1950's
-![JD]()
+![JD](jd.webp)
